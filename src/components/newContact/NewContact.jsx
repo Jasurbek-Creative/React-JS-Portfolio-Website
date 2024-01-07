@@ -2,7 +2,7 @@ import './newContact.css'
 
 const NewContact = () => {
   return (
-    <div>NewContact</div>
+    <section id='contact'>Contact</section>
   )
 }
 

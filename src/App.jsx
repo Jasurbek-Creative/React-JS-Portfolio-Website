@@ -12,7 +12,7 @@ import Footer from "./components/footer/Footer";
 const App = () => {
   return (
     <>
-      <h1>Hello world</h1>
+      
       <Header />
       <Nav />
       <NewAbout />
@@ -22,8 +22,6 @@ const App = () => {
       <Testimonials />
       <NewContact />
       <Footer />
-      <h1>The End</h1>
-      <h5>Jasic Author</h5>
     </>
   );
 };
